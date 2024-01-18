@@ -1,0 +1,108 @@
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.csproj.AssemblyReference.cache
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.AssemblyInfoInputs.cache
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.AssemblyInfo.cs
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.csproj.CoreCompileInputs.cache
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\appsettings.json
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.exe
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.deps.json
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.runtimeconfig.json
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.pdb
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Npgsql.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.TesteMaturidadeLinkedin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.build.TesteMaturidadeLinkedin.props
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TesteMaturidadeLinkedin.props
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TesteMaturidadeLinkedin.props
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\scopedcss\bundle\TesteMaturidadeLinkedin.styles.css
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.csproj.CopyComplete
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\refint\TesteMaturidadeLinkedin.dll
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.pdb
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.genruntimeconfig.cache
+C:\Users\rainn\Desktop\Projeto Certponto\siteProfissionalFG\obj\Debug\net6.0\ref\TesteMaturidadeLinkedin.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\appsettings.json
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.exe
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.deps.json
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.runtimeconfig.json
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\TesteMaturidadeLinkedin.pdb
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Humanizer.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Npgsql.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\System.CodeDom.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\System.Text.Json.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.csproj.AssemblyReference.cache
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.AssemblyInfoInputs.cache
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.AssemblyInfo.cs
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.csproj.CoreCompileInputs.cache
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.TesteMaturidadeLinkedin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.build.TesteMaturidadeLinkedin.props
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TesteMaturidadeLinkedin.props
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TesteMaturidadeLinkedin.props
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\scopedcss\bundle\TesteMaturidadeLinkedin.styles.css
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.csproj.CopyComplete
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\refint\TesteMaturidadeLinkedin.dll
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.pdb
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\TesteMaturidadeLinkedin.genruntimeconfig.cache
+C:\Projetos\SiteFlavia\siteProfissionalFG\obj\Debug\net6.0\ref\TesteMaturidadeLinkedin.dll
